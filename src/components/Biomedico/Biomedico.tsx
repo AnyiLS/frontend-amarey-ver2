@@ -8,7 +8,7 @@ import { useLanguage } from 'context/language'
 
 const Biomedico: React.FC = (): JSX.Element => {
 	/** States */
-	const [step, setStep] = React.useState<number>(0)
+	const [step, setStep] = React.useState<number>(0)     
 
 	/** Hooks */
 	const { width } = useGeneral()
