@@ -1,0 +1,4 @@
+#search-input:focus, #search-input:focus-visible, #search-input:focus-within {
+	outline: none;
+	box-shadow: none;
+}

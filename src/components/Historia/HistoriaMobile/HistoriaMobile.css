@@ -1,0 +1,28 @@
+.a-history-mobile,
+.b-history-mobile,
+.c-history-mobile,
+.d-history-mobile {
+	fill: #001f5f;
+}
+.a-history-mobile {
+	font-size: 21px;
+	font-family: Silka-Bold, Silka;
+}
+.a-history-mobile,
+.c-history-mobile {
+	font-weight: 700;
+}
+.b-history-mobile {
+	font-size: 14px;
+	font-family: Silka-Regular, Silka;
+}
+.c-history-mobile {
+	font-size: 32px;
+	font-family: 'Kiona-Bold';
+}
+.e-history-mobile {
+	fill: url(#c-history-mobile);
+}
+.f-history-mobile {
+	filter: url(#a-history-mobile);
+}

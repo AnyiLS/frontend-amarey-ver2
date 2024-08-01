@@ -1,0 +1,137 @@
+.a-bienvenida-1,
+.j-bienvenida-1 {
+  fill: #001f5f;
+}
+
+.b-bienvenida-1,
+.f-bienvenida-1 {
+  fill: none;
+}
+
+.c-bienvenida-1,
+.g-bienvenida-1,
+.h-bienvenida-1 {
+  fill: #fff;
+}
+
+.d-bienvenida-1 {
+  clip-path: url(#k-bienvenida-1);
+}
+
+.e-bienvenida-1 {
+  clip-path: url(#l-bienvenida-1);
+}
+
+.f-bienvenida-1 {
+  stroke: #e7002a;
+  stroke-width: 3px;
+}
+
+.f-bienvenida-1,
+.n-bienvenida-1,
+.o-bienvenida-1,
+.p-bienvenida-1,
+.q-bienvenida-1,
+.r-bienvenida-1,
+.s-bienvenida-1,
+.t-bienvenida-1 {
+  stroke-miterlimit: 10;
+}
+
+.g-bienvenida-1 {
+  font-size: 28px;
+}
+
+.g-bienvenida-1,
+.h-bienvenida-1 {
+  font-family: Kiona-Bold, Kiona;
+}
+
+.g-bienvenida-1,
+.h-bienvenida-1,
+.k-bienvenida-1 {
+  font-weight: 700;
+}
+
+.h-bienvenida-1 {
+  font-size: 38px;
+}
+
+.i-bienvenida-1 {
+  fill: url(#m-bienvenida-1);
+}
+
+.j-bienvenida-1 {
+  font-size: 42px;
+  font-family: Silka-SemiBold, Silka;
+  font-weight: 600;
+}
+
+.k-bienvenida-1 {
+  font-size: 60px;
+  font-family: Silka-Bold, Silka;
+}
+
+.l-bienvenida-1 {
+  fill: #e80029;
+}
+
+.m-bienvenida-1 {
+  fill: #001f5b;
+}
+
+.n-bienvenida-1,
+.o-bienvenida-1,
+.p-bienvenida-1,
+.q-bienvenida-1,
+.r-bienvenida-1,
+.s-bienvenida-1,
+.t-bienvenida-1 {
+  stroke: #707070;
+  stroke-width: 0.54px;
+}
+
+.n-bienvenida-1 {
+  fill: url(#p-bienvenida-1);
+}
+
+.o-bienvenida-1 {
+  fill: url(#q-bienvenida-1);
+}
+
+.p-bienvenida-1 {
+  fill: url(#r-bienvenida-1);
+}
+
+.q-bienvenida-1 {
+  fill: url(#s-bienvenida-1);
+}
+
+.r-bienvenida-1 {
+  fill: url(#t-bienvenida-1);
+}
+
+.s-bienvenida-1 {
+  fill: url(#u-bienvenida-1);
+}
+
+.t-bienvenida-1 {
+  fill: url(#v-bienvenida-1);
+}
+
+.u-bienvenida-1 {
+  mix-blend-mode: multiply;
+  isolation: isolate;
+}
+
+.v-bienvenida-1 {
+  fill: #d6d6d6;
+}
+
+.w-bienvenida-1 {
+  fill: #eeebeb;
+}
+
+.x-bienvenida-1 {
+  filter: url(#n-bienvenida-1);
+}

@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Kiona-Bold;
+    src: url('https://grupoamarey.com/fonts/kiona_bold.ttf');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Silka-Regular";
+    src: url('https://grupoamarey.com/fonts/silka_regular.otf');
+    font-style: normal;
+    
+}
+
+@font-face {
+    font-family: "Silka-Semibold";
+    src: url('https://grupoamarey.com/fonts/silka_semibold.otf');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Silka-Medium";
+    src: url('https://grupoamarey.com/fonts/silka_medium.otf');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Silka-Bold;
+    src: url('https://grupoamarey.com/fonts/silka_bold.otf');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    main {
+      margin-top: 0 !important;
+    }
+  }
+
+  body {
+    overflow-x: hidden !important;
+  }
+
+  [data-testid="carousel"] .snap-mandatory {
+    overflow-y: hidden !important;
+  }

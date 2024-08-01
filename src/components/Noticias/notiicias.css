@@ -1,0 +1,17 @@
+.redireciona:hover .s-products-desktop {
+    fill: #001f5f;
+}
+
+.selected {
+    opacity: 1 !important;
+}
+
+.r-products-desktop {
+    opacity: 0.5;
+}
+
+@media (max-width: 768px){
+    .j-products-desktop {
+        opacity: 0.5;
+    }
+}
